@@ -1,6 +1,6 @@
 <h1 align="center">GitHub Profile</h1>
 
----
+--
 
 <h3 align="center">LeetCode Stats</h3>
 <p align="center">
